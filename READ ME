@@ -1,0 +1,9 @@
+Images could be found in the bin/debug folder of the solution.
+Most of the F# code was written by Harsh Patel
+Some of the F# code for parts such as writing the image to the file and saving the images was given by Prof.Joe Hummel.
+Most of the C#/ Front end code was written by Prof.Joe Hummel.
+
+Note: Please do not claim this code as your own work and turn it in as a homework assignment.
+      This code was not fully written by me(Harsh Patel), I was only working on the back end, the back end is suppose to show the
+      power of F#; the front end was written by Prof.Joe Hummel from The University Of Illinois at Chicago (Greatest CS professor on this planet).
+      
